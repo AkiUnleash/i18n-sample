@@ -37,7 +37,7 @@ const Home: NextPage<Props> = ({ i18nText }) => {
           </Link>
         </div>
         <div className={styles.supplement}>
-          <a href="">
+          <a href="https://qiita.com/AkiUnleash/items/2b512b7a08b1229a4a88">
             {i18nText.description}
           </a>
         </div>
